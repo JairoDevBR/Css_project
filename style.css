@@ -1,0 +1,96 @@
+.proximoButtonDiv {
+  background-color: #1C2465;
+  color: #FFF;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  max-width: 210px;
+  max-height: 51px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.proximoButton {
+  background-color: #1C2465;
+  color: #FFF;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  border: 0;
+  width: 250px;
+  max-height: 51px;
+  border-radius: 10px;
+}
+
+.voltarButtonDiv{
+  background-color: #ED6EA7;
+  color: #FFF;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  max-width: 210px;
+  max-height: 51px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.voltarButton{
+  background-color: #ED6EA7;
+  color: #FFF;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  border: 0;
+  width: 250px;
+  max-height: 51px;
+  border-radius: 10px;
+}
+
+.loginButtonDiv{
+  background-color: #B143FF;
+  color: #FFF;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  width: 227px;
+  max-height: 51px;
+  border-radius: 10px;
+}
+
+.loginButton{
+  background-color: #B143FF;
+  color: #FFF;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 0;
+  width: 267px;
+  max-height: 51px;
+  border-radius: 10px;
+}
+
+.inscrevaseButtonDiv{
+  background-color: #fff;
+  color: #000021;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  width: 227px;
+  max-height: 51px;
+  border: 1px solid #ED6EA7;
+  border-radius: 10px;
+}
+
+.inscrevaseButton{
+  background-color: #fff;
+  color: #000021;
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid #ED6EA7;
+  width: 267px;
+  max-height: 51px;
+  border-radius: 10px;
+}
