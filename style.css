@@ -94,3 +94,28 @@
   max-height: 51px;
   border-radius: 10px;
 }
+
+.inputField{
+  position: absolute;
+  width: 327px;
+  height: 56px;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 0 30px;
+  line-height: 20.48px;
+  border: 1px solid #A7A7A7;
+  border-radius: 10px;
+  z-index: 1111;
+  outline: none;
+}
+
+.labelline{
+  position: relative;
+  background-color: #fff;
+  color: #A7A7A7;
+  left:14px;
+  top: -12px;
+  z-index: 1111;
+  padding: 4px;
+  display: inline-block;
+}
